@@ -1,0 +1,359 @@
+﻿<%Annotated>
+
+<%s>﻿SCENE: "APPOINTMENT KEPT" - AN AFFAIR TO REMEMBER
+
+<%s>(Christmas. Terry lies on the sofa with a book and a blanket over her legs. The doorbell rings and the Housekeeper opens the door. Nickie is in the doorway, overcoat draped over his arm, hat in hand).
+
+<%p>NICKIE: (to Housekeeper). Uh, does Miss McKay -
+
+<%p>(He sees Terry on the sofa. The Housekeeper steps aside, holding the door open).
+
+<%p>TERRY: Nickie -
+
+<%p>NICKIE: (walking in slowly). Hello, Terry. (puts overcoat and hat on a chair).
+
+<%p>TERRY: Oh, it's - g-good to see you.
+
+<%p>NICKIE: Oh, it's good to see you, too. You feeling all right?
+
+<%p>TERRY: Y-yes, yes. I - I'm fine. I'm just resting.
+
+<%p>NICKIE: Good, good. Good.
+
+<%p>TERRY: Well, it's - been a long time.
+
+<%p>NICKIE: Yes, hasn't it? (walks to end of sofa).
+
+<%p>TERRY: Well it, it is good to see you.
+
+<%p>NICKIE: You said that. May I, uh -
+
+<%p>TERRY: Oh, yes, please do. Sit down.
+
+<%p>NICKIE: (decides where to sit). I'll only be a minute. I'm sure you don't
+
+<%p> mind. (sits across from her).
+
+<%p>TERRY: No, no, of - course not.
+
+<%p>NICKIE: (noting apartment). Oh, uh, is this the breathtaking view?
+
+<%p>TERRY: Well, the - the altitude bothered me.
+
+<%p>NICKIE: Yeah, yeah. (smiles slightly, thinks). Well I'll, uh - (clears throat).
+
+<%p> I'll bet you're wondering how I got here
+
+<%p>TERRY: Well, yes. Yes, yes, I am.
+
+<%p>NICKIE: Well, I was uh, I was looking through the telephone book for a man
+
+<%p> named McBride, and I, uh, I came across the name T. McKay.
+
+<%p> And I said to myself, "Oh, now, could that possibly be Terry 
+
+<%p>McKay, my old friend?”
+
+<%s>"APPOINTMENT KEPT” - PAGE TWO
+
+<%p>TERRY: And it was.
+
+<%p>NICKIE: Yes, yes. And then I said to myself, "Well now uh, I haven't been
+
+<%p> very nice to Miss McKay. After all, I had an appointment with
+
+<%p> her one day, and uh, I didn't keep it.”
+
+<%p>TERRY: You didn't keep -
+
+<%p>NICKIE: No. ( smiles, rises). Well, so I, I said to myself - I talk to myself quite 
+
+<%p>a lot these days - I said, uh, "Well, that's not a very nice way to treat 
+
+<%p>an old friend like Miss McKay. I must apologize to Miss McKay.” 
+
+<%p>Because don't you agree when someone doesn't keep an appointment 
+
+<%p>they should apologize? Hm?
+
+<%p>TERRY: Yes. Oh, yes, I think you're absolutely right. I-I - well, I-I think the
+
+<%p> least people could do is to say they're - sorry, or something.
+
+<%p>NICKIE: So here I am.
+
+<%p>TERRY: That's very sweet.
+
+<%p>NICKIE: I thought so.
+
+<%p>TERRY: I've often wondered about you.
+
+<%p>NICKIE: (sardonic laugh). Huh-uh-uh.
+
+<%p>TERRY: And how you were.
+
+<%p>NICKIE: Did you really?
+
+<%p>TERRY: Yes, really.
+
+<%p>NICKIE: Oh, well I - I've often thought about you, too. (clasping hands,
+
+<%p> coming back toward sofa). Then, uh - then you weren't angry
+
+<%p> because I wasn't there? I mean, you must have been at first.
+
+<%p>TERRY: Oh, well - yes. Yes, yes I was. At, at first I was furious. I said,
+
+<%p> "He can't do this to me. Who does he think he is?”
+
+<%p>NICKIE: (with hands on back of the sofa). Hm. How long did you wait? I
+
+<%p> mean, did you wait long?
+
+<%p>TERRY: Uh, well, let's - yeah, well yes. Yes, I, I waited until about -
+
+<%p>NICKIE: Midnight.
+
+<%p>TERRY: Oh.
+
+<%p>NICKIE: And then what did you do?
+
+<%s>"APPOINTMENT KEPT” - PAGE THREE
+
+<%p>TERRY: Well, then I got really mad. Mmm. Well, you can imagine, standing
+
+<%p> up there on the -
+
+<%p>NICKIE: Yes, in the thunderstorm.
+
+<%p>TERRY: In a thunderstorm.
+
+<%p>NICKIE: Then what did you say to yourself?
+
+<%p>TERRY: Well then, then I said, "Aw, go on home and get tight.”
+
+<%p>NICKIE: But you didn't do that.
+
+<%p>TERRY: Didn't I?
+
+<%p>NICKIE: No. (rounding sofa). Well, uh - maybe just a little one. Every hour
+
+<%p> for about a month.
+
+<%p>TERRY: Can you blame me?
+
+<%p>NICKIE: Oh, I should say not. The least I could have done was to have sent you
+
+<%p> a note.
+
+<%p>TERRY: Well, perhaps by the time you thought of it, you didn't know where to
+
+<%p> reach me.
+
+<%p>NICKIE: But you swore that if you ever saw me again, you'd ask.
+
+<%p>TERRY: N-no. N-no. I remembered we said that if we could make it, we'd be
+
+<%p> there. And if one of us didn't show up, it would be for a darn
+
+<%p> good reason.
+
+<%p>NICKIE: Did we say that?
+
+<%p>TERRY: Yes, that, that is exactly what we said.
+
+<%p>NICKIE: Well, like what, for instance?
+
+<%p>TERRY: (overlapping). So - there will be no more questions asked - I hope?
+
+<%p>NICKIE: Hmm.
+
+<%p>TERRY: Would you like a cigarette?
+
+<%p>NICKIE: Thank you. (leans over to cigarette box, takes cigarette).
+
+<%p>TERRY: Thank you, Nickie.
+
+<%s>"APPOINTMENT KEPT” - PAGE FOUR
+
+<%p>NICKIE: Isn't that wonderful? I walked all the way here just to - and now I'm 
+
+<%p>not even supposed to ask you why you weren't there. Isn't that 
+
+<%p>strange? We used to read each other's thoughts. It's not the same, 
+
+<%p>is it?
+
+<%p>TERRY: Not quite.
+
+<%p>NICKIE: Hmm. (puts hands on sofa back). It doesn't seem -
+
+<%p>TERRY: I know.
+
+<%p>NICKIE: I don't know what happens to me. Whenever I - ( beat). No
+
+<%p> wedding ring, I see.
+
+<%p>TERRY: (beat, looking at hand). No.
+
+<%p>NICKIE: Well, I thought at the -
+
+<%p>TERRY: The - last night, the show? No, no. He was just - no.
+
+<%p>NICKIE: I didn't mean to offend you. Hmph. (he walks to a cabinet with
+
+<%p> an ashtray and puts the unlit cigarette in it).
+
+<%p>TERRY: How's everything with you, Nickie?
+
+<%p>NICKIE: Oh, you can ask questions.
+
+<%p>TERRY: Mm-hm.
+
+<%p>NICKIE: (smiles). Well, I thought everything was fine until I saw you last 
+
+<%p>night. Then I knew there must be something between us, even if
+
+<%p> it's only an ocean - so I bought myself a ticket.
+
+<%p>TERRY: Oh, you're - sailing?
+
+<%p>NICKIE: Tonight. (moving back to sofa). And you're happy, aren't you?
+
+<%p>TERRY: (moving hand over sofa back). Yes, yes. And you?
+
+<%p>NICKIE: I don't know. I'm worried about the future. I don't know what people
+
+<%p> will think. They'll say, "There he goes, the mad painter. There's
+
+<%p> something the matter with him, he doesn't like women.”
+
+<%p>TERRY: (looking down). Why would people say that?
+
+<%p>NICKIE: Why? Well, because he sails the seven seas and to every woman he
+
+<%p> meets he says, "Where will you be in six months?” Hm.
+
+<%p>TERRY: And they're there?
+
+<%s>"APPOINTMENT KEPT” - PAGE FIVE
+
+<%p>NICKIE: Everywhere. Tops of pyramids, the domes of cathedrals, the Eiffel
+
+<%p> Tower. He still tries to keep them up high.
+
+<%p>(Nickie holds up his hand as he did at their first dinner, turns his back to her).
+
+<%p>TERRY: He keeps them waiting.
+
+<%p>NICKIE: Sure. Waiting, waiting, waiting.
+
+<%p>TERRY: And where is he all this time?
+
+<%p>(Nickie turns around and drops his hands).
+
+<%p>NICKIE: Waiting.
+
+<%p>TERRY: (placing arm over sofa back). But you can't go on like that. It isn't
+
+<%p> right for you. Oh, I wish I could say you were wrong.
+
+<%p>NICKIE: I was once.
+
+<%p>(Beat, as Terry reacts).
+
+<%p> How'd you like to change the subject? (nearing sofa).
+
+<%p>TERRY: Yes, yes. I'd love to. M-Merry Christmas.
+
+<%p>NICKIE: Oh, I almost forgot.
+
+<%p>(Nickie walks to the chair where his coat is draped and pulls out a gift with white wrapping paper and a gold ribbon).
+
+<%p> Now, six months later, who'd have thought we'd be spending Christmas
+
+<%p> together in front of a nice, warm fire? I brought you a present.
+
+<%p>TERRY: (taking the box). Oh, thank you. I - I'm sorry, I - don't have one for
+
+<%p> you, I - didn't think I'd be seeing you.
+
+<%p>NICKIE: That's all right, I didn't expect one. That isn't really a 
+
+<%p>Christmas present.
+
+<%p>(Terry opens the present. It's the shawl of Nickie's grandmother. Their eyes meet).
+
+<%p>TERRY: (holding it, looking at it). Oh, that's why my letters came back.
+
+<%p> (she wraps the shawl around her shoulders).
+
+<%p>NICKIE: I would have sent it to you, but I didn't know your address until today.
+
+<%p> She wanted you to have it, remember?
+
+<%p>(Terry nods, eyed downcast).
+
+<%s>"APPOINTMENT KEPT” - PAGE SIX
+
+<%p>NICKIE: (continued). So, uh, well, that's the, uh, reason I -
+
+<%p>(Nickie goes to the chair, picks up his coat and hat, drapes them over his arm, returns).
+
+<%p> Good-bye, Terry. (he offers his hand).
+
+<%p>TERRY: (taking Nickie's hand). Goodbye, Nickie.
+
+<%p>(Nickie leans over and kisses her hand. Her eyes are full of love. Her hand stays in the air a moment. His throat clears as it always does. He walks to the door. He stops and turns).
+
+<%p>NICKIE: You know, I painted you like that with the shawl. I wish you could
+
+<%p> have seen it. Courbet said it was one of my best. I didn't think I
+
+<%p> could ever part with it. But, well, there was no reason to keep it
+
+<%p> any longer, and uh, I couldn't take money for it, because, well, you
+
+<%p> know. So, uh, Courbet told me a young woman came into the
+
+<%p> gallery, and uh, she liked it. She saw in it what I hoped you'd see,
+
+<%p> so I told Courbet to give it to her - because, uh, he said she didn't
+
+<%p> have any money, and not only that, she was, uh, she was -
+
+<%p>(Nickie is thinking, starting toward Terry, trying to speak casually).
+
+<%p> Anyway, I told him to give it to her. Courbet said she wanted it so
+
+<%p> badly (puts coat and hat on sofa back) and uh, so I told him to give
+
+<%p> it to her (moving toward bedroom), you know, it's the Christmas
+
+<%p> season and all that. (at door). And uh, you know me, holly in
+
+<%p> my heart.
+
+<%p>(He opens the bedroom door and enters. He stops, staring at the painting. He returns to the living room and walks to her slowly, realizing she's paralyzed).
+
+<%p>TERRY: (eyes welling). Darling, don't look at me like that.
+
+<%p>NICKIE: (lowering to her, staring into her eyes). Why didn't you tell me? If
+
+<%p> it had to happen to one of us, why did it have to be you?
+
+<%p>(Nickie embraces her. Her lips go to his neck).
+
+<%p>TERRY: Oh. It was nobody's fault but my own. (her lips at his earlobe and cheek).
+
+<%p> I - I was looking up. It was the nearest thing to heaven. You were 
+
+<%p> there. (pulling back). Oh, darling, don't - don't worry, darling. (wiping
+
+<%p> her lipstick off him with her hand). If you can paint, I can walk. 
+
+<%p>Anything can happen, don't you think?
+
+<%p>NICKIE: Yes, darling, yes. (he dabs her eyes with handkerchief). Yes, yes, yes.
+
+<%p>(Their lips brush, hands on cheeks, as they embrace).
